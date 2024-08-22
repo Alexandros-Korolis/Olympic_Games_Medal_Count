@@ -1,0 +1,418 @@
+Country,Gold_medals,Silver_medals,Bronze_medals,Total_medals,Year,Season
+USAUnited States,40,44,42,126,2024,summer
+CHNChina,40,27,24,91,2024,summer
+GBRGreat Britain,14,22,29,65,2024,summer
+FRAFrance,16,26,22,64,2024,summer
+AUSAustralia,18,19,16,53,2024,summer
+JPNJapan,20,12,13,45,2024,summer
+ITAItaly,12,13,15,40,2024,summer
+NEDNetherlands,15,7,12,34,2024,summer
+GERGermany,12,13,8,33,2024,summer
+KORSouth Korea,13,9,10,32,2024,summer
+CANCanada,9,7,11,27,2024,summer
+NZLNew Zealand,10,7,3,20,2024,summer
+BRABrazil,3,7,10,20,2024,summer
+HUNHungary,6,7,6,19,2024,summer
+ESPSpain,5,4,9,18,2024,summer
+UZBUzbekistan,8,2,3,13,2024,summer
+IRIIran,3,6,3,12,2024,summer
+UKRUkraine,3,5,4,12,2024,summer
+SWESweden,4,4,3,11,2024,summer
+KENKenya,4,2,5,11,2024,summer
+BELBelgium,3,1,6,10,2024,summer
+POLPoland,1,4,5,10,2024,summer
+ROURomania,3,4,2,9,2024,summer
+DENDenmark,2,2,5,9,2024,summer
+CUBCuba,2,1,6,9,2024,summer
+NORNorway,4,1,3,8,2024,summer
+SUISwitzerland,1,2,5,8,2024,summer
+GREGreece,1,1,6,8,2024,summer
+TURTurkey,0,3,5,8,2024,summer
+IRLIreland,4,0,3,7,2024,summer
+GEOGeorgia,3,3,1,7,2024,summer
+BULBulgaria,3,1,3,7,2024,summer
+CROCroatia,2,2,3,7,2024,summer
+AZEAzerbaijan,2,2,3,7,2024,summer
+TPEChinese Taipei,2,0,5,7,2024,summer
+ISRIsrael,1,5,1,7,2024,summer
+KAZKazakhstan,1,3,3,7,2024,summer
+THAThailand,1,3,2,6,2024,summer
+RSASouth Africa,1,3,2,6,2024,summer
+JAMJamaica,1,3,2,6,2024,summer
+PRKNorth Korea,0,2,4,6,2024,summer
+KGZKyrgyzstan,0,2,4,6,2024,summer
+INDIndia,0,1,5,6,2024,summer
+SRBSerbia,3,1,1,5,2024,summer
+CZECzechia,3,0,2,5,2024,summer
+AUTAustria,2,0,3,5,2024,summer
+ECUEcuador,1,2,2,5,2024,summer
+MEXMexico,0,3,2,5,2024,summer
+BRNBahrain,2,1,1,4,2024,summer
+PHIPhilippines,2,0,2,4,2024,summer
+HKGHong Kong,2,0,2,4,2024,summer
+ETHEthiopia,1,3,0,4,2024,summer
+PORPortugal,1,2,1,4,2024,summer
+COLColombia,0,3,1,4,2024,summer
+ARMArmenia,0,3,1,4,2024,summer
+LTULithuania,0,2,2,4,2024,summer
+MDAMoldova,0,1,3,4,2024,summer
+SLOSlovenia,2,1,0,3,2024,summer
+INAIndonesia,2,0,1,3,2024,summer
+ALGAlgeria,2,0,1,3,2024,summer
+TUNTunisia,1,1,1,3,2024,summer
+EGYEgypt,1,1,1,3,2024,summer
+ARGArgentina,1,1,1,3,2024,summer
+DOMDominican Republic,1,0,2,3,2024,summer
+TJKTajikistan,0,0,3,3,2024,summer
+UGAUganda,1,1,0,2,2024,summer
+LCASaint Lucia,1,1,0,2,2024,summer
+BOTBotswana,1,1,0,2,2024,summer
+CHIChile,1,1,0,2,2024,summer
+MARMorocco,1,0,1,2,2024,summer
+GUAGuatemala,1,0,1,2,2024,summer
+KOSKosovo,0,1,1,2,2024,summer
+MASMalaysia,0,0,2,2,2024,summer
+GRNGrenada,0,0,2,2,2024,summer
+ALBAlbania,0,0,2,2,2024,summer
+PURPuerto Rico,0,0,2,2,2024,summer
+DMADominica,1,0,0,1,2024,summer
+PAKPakistan,1,0,0,1,2024,summer
+PANPanama,0,1,0,1,2024,summer
+JORJordan,0,1,0,1,2024,summer
+MGLMongolia,0,1,0,1,2024,summer
+FIJFiji,0,1,0,1,2024,summer
+CYPCyprus,0,1,0,1,2024,summer
+EORRefugee Olympic Team,0,0,1,1,2024,summer
+ZAMZambia,0,0,1,1,2024,summer
+SGPSingapore,0,0,1,1,2024,summer
+QATQatar,0,0,1,1,2024,summer
+PERPeru,0,0,1,1,2024,summer
+CPVCape Verde,0,0,1,1,2024,summer
+CIVIvory Coast,0,0,1,1,2024,summer
+SVKSlovakia,0,0,1,1,2024,summer
+NORNorway,16,8,13,37,2022,winter
+ROCRussian Olympic Committee,6,12,14,32,2022,winter
+GERGermany,12,10,5,27,2022,winter
+CANCanada,4,8,14,26,2022,winter
+USAUnited States,8,10,7,25,2022,winter
+SWESweden,8,5,5,18,2022,winter
+AUTAustria,7,7,4,18,2022,winter
+JPNJapan,3,6,9,18,2022,winter
+NEDNetherlands,8,5,4,17,2022,winter
+ITAItaly,2,7,8,17,2022,winter
+CHNChina,9,4,2,15,2022,winter
+SUISwitzerland,7,2,5,14,2022,winter
+FRAFrance,5,7,2,14,2022,winter
+KORSouth Korea,2,5,2,9,2022,winter
+FINFinland,2,2,4,8,2022,winter
+SLOSlovenia,2,3,2,7,2022,winter
+AUSAustralia,1,2,1,4,2022,winter
+NZLNew Zealand,2,1,0,3,2022,winter
+HUNHungary,1,0,2,3,2022,winter
+GBRGreat Britain,1,1,0,2,2022,winter
+SVKSlovakia,1,0,1,2,2022,winter
+CZECzechia,1,0,1,2,2022,winter
+BELBelgium,1,0,1,2,2022,winter
+BLRBelarus,0,2,0,2,2022,winter
+UKRUkraine,0,1,0,1,2022,winter
+ESPSpain,0,1,0,1,2022,winter
+POLPoland,0,0,1,1,2022,winter
+LATLatvia,0,0,1,1,2022,winter
+ESTEstonia,0,0,1,1,2022,winter
+USAUnited States,39,41,33,113,2020,summer
+CHNChina,38,32,18,88,2020,summer
+ROCRussian Olympic Committee,20,28,23,71,2020,summer
+GBRGreat Britain,22,21,22,65,2020,summer
+JPNJapan,27,14,17,58,2020,summer
+AUSAustralia,17,7,22,46,2020,summer
+ITAItaly,10,10,20,40,2020,summer
+GERGermany,10,11,16,37,2020,summer
+NEDNetherlands,10,12,14,36,2020,summer
+FRAFrance,10,12,11,33,2020,summer
+CANCanada,7,6,11,24,2020,summer
+BRABrazil,7,6,8,21,2020,summer
+NZLNew Zealand,7,6,7,20,2020,summer
+HUNHungary,6,7,7,20,2020,summer
+KORSouth Korea,6,4,10,20,2020,summer
+UKRUkraine,1,6,12,19,2020,summer
+ESPSpain,3,8,6,17,2020,summer
+CUBCuba,7,3,5,15,2020,summer
+POLPoland,4,5,5,14,2020,summer
+SUISwitzerland,3,4,6,13,2020,summer
+TURTurkey,2,2,9,13,2020,summer
+TPETaiwan (Chinese Taipei),2,4,6,12,2020,summer
+CZECzechia,4,4,3,11,2020,summer
+DENDenmark,3,4,4,11,2020,summer
+KENKenya,4,4,2,10,2020,summer
+JAMJamaica,4,1,4,9,2020,summer
+SWESweden,3,6,0,9,2020,summer
+SRBSerbia Republic,3,1,5,9,2020,summer
+NORNorway,4,2,2,8,2020,summer
+CROCroatia,3,3,2,8,2020,summer
+GEOGeorgia,2,5,1,8,2020,summer
+KAZKazakhstan,0,0,8,8,2020,summer
+IRIIran,3,2,2,7,2020,summer
+BELBelgium,3,1,3,7,2020,summer
+BLRBelarus,1,3,3,7,2020,summer
+INDIndia,1,2,4,7,2020,summer
+AUTAustria,1,1,5,7,2020,summer
+AZEAzerbaijan,0,3,4,7,2020,summer
+BULBulgaria,3,1,2,6,2020,summer
+HKGHong Kong,1,2,3,6,2020,summer
+EGYEgypt,1,1,4,6,2020,summer
+SLOSlovenia,3,1,1,5,2020,summer
+UZBUzbekistan,3,0,2,5,2020,summer
+INAIndonesia,1,1,3,5,2020,summer
+COLColombia,0,4,1,5,2020,summer
+DOMDominican Republic,0,3,2,5,2020,summer
+UGAUganda,2,1,1,4,2020,summer
+GREGreece,2,1,1,4,2020,summer
+ISRIsrael,2,0,2,4,2020,summer
+IRLIreland,2,0,2,4,2020,summer
+VENVenezuela,1,3,0,4,2020,summer
+ROURomania,1,3,0,4,2020,summer
+PHIPhilippines,1,2,1,4,2020,summer
+SVKSlovakia,1,2,1,4,2020,summer
+PORPortugal,1,1,2,4,2020,summer
+ETHEthiopia,1,1,2,4,2020,summer
+ARMArmenia,0,2,2,4,2020,summer
+MGLMongolia,0,1,3,4,2020,summer
+MEXMexico,0,0,4,4,2020,summer
+ECUEcuador,2,1,0,3,2020,summer
+QATQatar,2,0,1,3,2020,summer
+RSASouth Africa,1,2,0,3,2020,summer
+KGZKyrgyzstan,0,2,1,3,2020,summer
+SMRSan Marino,0,1,2,3,2020,summer
+ARGArgentina,0,1,2,3,2020,summer
+KOSKosovo,2,0,0,2,2020,summer
+BAHBahamas,2,0,0,2,2020,summer
+TUNTunisia,1,1,0,2,2020,summer
+THAThailand,1,0,1,2,2020,summer
+LATLatvia,1,0,1,2,2020,summer
+FIJFiji,1,0,1,2,2020,summer
+ESTEstonia,1,0,1,2,2020,summer
+NGRNigeria,0,1,1,2,2020,summer
+MASMalaysia,0,1,1,2,2020,summer
+JORJordan,0,1,1,2,2020,summer
+FINFinland,0,0,2,2,2020,summer
+MARMorocco,1,0,0,1,2020,summer
+PURPuerto Rico,1,0,0,1,2020,summer
+BERBermuda,1,0,0,1,2020,summer
+BRNBahrain,0,1,0,1,2020,summer
+TKMTurkmenistan,0,1,0,1,2020,summer
+NAMNamibia,0,1,0,1,2020,summer
+KSASaudi Arabia,0,1,0,1,2020,summer
+MKDNorth Macedonia,0,1,0,1,2020,summer
+LTULithuania,0,1,0,1,2020,summer
+SYRSyria,0,0,1,1,2020,summer
+NIGNiger,0,0,1,1,2020,summer
+GRNGrenada,0,0,1,1,2020,summer
+GHAGhana,0,0,1,1,2020,summer
+CIVIvory Coast,0,0,1,1,2020,summer
+BURBurkina Faso,0,0,1,1,2020,summer
+BOTBotswana,0,0,1,1,2020,summer
+MDAMoldova,0,0,1,1,2020,summer
+KUWKuwait,0,0,1,1,2020,summer
+NORNorway,14,14,11,39,2018,winter
+GERGermany,14,10,7,31,2018,winter
+CANCanada,11,8,10,29,2018,winter
+USAUnited States,9,8,6,23,2018,winter
+NEDNetherlands,8,6,6,20,2018,winter
+KORSouth Korea,5,8,4,17,2018,winter
+ROCRussian Olympic Committee,2,6,9,17,2018,winter
+SUISwitzerland,5,6,4,15,2018,winter
+FRAFrance,5,4,6,15,2018,winter
+SWESweden,7,6,1,14,2018,winter
+AUTAustria,5,3,6,14,2018,winter
+JPNJapan,4,5,4,13,2018,winter
+ITAItaly,3,2,5,10,2018,winter
+CHNChina,1,6,2,9,2018,winter
+CZECzechia,2,2,3,7,2018,winter
+FINFinland,1,1,4,6,2018,winter
+GBRGreat Britain,1,0,4,5,2018,winter
+BLRBelarus,2,1,0,3,2018,winter
+SVKSlovakia,1,2,0,3,2018,winter
+AUSAustralia,0,2,1,3,2018,winter
+POLPoland,1,0,1,2,2018,winter
+SLOSlovenia,0,1,1,2,2018,winter
+ESPSpain,0,0,2,2,2018,winter
+NZLNew Zealand,0,0,2,2,2018,winter
+UKRUkraine,1,0,0,1,2018,winter
+HUNHungary,1,0,0,1,2018,winter
+BELBelgium,0,1,0,1,2018,winter
+LIELiechtenstein,0,0,1,1,2018,winter
+LATLatvia,0,0,1,1,2018,winter
+KAZKazakhstan,0,0,1,1,2018,winter
+USAUnited States,46,37,38,121,2016,summer
+CHNChina,26,18,26,70,2016,summer
+GBRGreat Britain,27,23,17,67,2016,summer
+RUSRussia,19,18,19,56,2016,summer
+GERGermany,17,10,15,42,2016,summer
+FRAFrance,10,18,14,42,2016,summer
+JPNJapan,12,8,21,41,2016,summer
+AUSAustralia,8,11,10,29,2016,summer
+ITAItaly,8,12,8,28,2016,summer
+CANCanada,4,3,15,22,2016,summer
+KORSouth Korea,9,3,9,21,2016,summer
+NEDNetherlands,8,7,4,19,2016,summer
+BRABrazil,7,6,6,19,2016,summer
+NZLNew Zealand,4,9,5,18,2016,summer
+AZEAzerbaijan,1,7,10,18,2016,summer
+ESPSpain,7,4,6,17,2016,summer
+KAZKazakhstan,3,5,9,17,2016,summer
+HUNHungary,8,3,4,15,2016,summer
+DENDenmark,2,6,7,15,2016,summer
+KENKenya,6,6,1,13,2016,summer
+UZBUzbekistan,4,2,7,13,2016,summer
+JAMJamaica,6,3,2,11,2016,summer
+CUBCuba,5,2,4,11,2016,summer
+SWESweden,2,6,3,11,2016,summer
+UKRUkraine,2,5,4,11,2016,summer
+POLPoland,2,3,6,11,2016,summer
+CROCroatia,5,3,2,10,2016,summer
+RSASouth Africa,2,6,2,10,2016,summer
+CZECzechia,1,2,7,10,2016,summer
+BLRBelarus,1,4,4,9,2016,summer
+COLColombia,3,2,3,8,2016,summer
+IRIIran,3,1,4,8,2016,summer
+SRBSerbia Republic,2,4,2,8,2016,summer
+TURTurkey,1,3,4,8,2016,summer
+ETHEthiopia,1,2,5,8,2016,summer
+SUISwitzerland,3,2,2,7,2016,summer
+PRKNorth Korea,2,3,2,7,2016,summer
+GEOGeorgia,2,1,4,7,2016,summer
+GREGreece,3,1,2,6,2016,summer
+THAThailand,2,2,2,6,2016,summer
+BELBelgium,2,2,2,6,2016,summer
+ROURomania,1,1,3,5,2016,summer
+MASMalaysia,0,4,1,5,2016,summer
+MEXMexico,0,3,2,5,2016,summer
+ARGArgentina,3,1,0,4,2016,summer
+SVKSlovakia,2,2,0,4,2016,summer
+ARMArmenia,1,3,0,4,2016,summer
+SLOSlovenia,1,2,1,4,2016,summer
+LTULithuania,0,1,3,4,2016,summer
+NORNorway,0,0,4,4,2016,summer
+INAIndonesia,1,2,0,3,2016,summer
+TPETaiwan (Chinese Taipei),1,0,2,3,2016,summer
+VENVenezuela,0,1,2,3,2016,summer
+BULBulgaria,0,1,2,3,2016,summer
+TUNTunisia,0,0,3,3,2016,summer
+EGYEgypt,0,0,3,3,2016,summer
+BRNBahrain,1,1,0,2,2016,summer
+VIEVietnam,1,1,0,2,2016,summer
+IOCInd. Olympic Participant,1,0,1,2,2016,summer
+CIVIvory Coast,1,0,1,2,2016,summer
+BAHBahamas,1,0,1,2,2016,summer
+ALGAlgeria,0,2,0,2,2016,summer
+IRLIreland,0,2,0,2,2016,summer
+MGLMongolia,0,1,1,2,2016,summer
+INDIndia,0,1,1,2,2016,summer
+ISRIsrael,0,0,2,2,2016,summer
+KOSKosovo,1,0,0,1,2016,summer
+SGPSingapore,1,0,0,1,2016,summer
+JORJordan,1,0,0,1,2016,summer
+TJKTajikistan,1,0,0,1,2016,summer
+PURPuerto Rico,1,0,0,1,2016,summer
+FIJFiji,1,0,0,1,2016,summer
+QATQatar,0,1,0,1,2016,summer
+PHIPhilippines,0,1,0,1,2016,summer
+NIGNiger,0,1,0,1,2016,summer
+GRNGrenada,0,1,0,1,2016,summer
+BDIBurundi,0,1,0,1,2016,summer
+UAEUnited Arab Emirates,0,0,1,1,2016,summer
+PORPortugal,0,0,1,1,2016,summer
+NGRNigeria,0,0,1,1,2016,summer
+MARMorocco,0,0,1,1,2016,summer
+DOMDominican Republic,0,0,1,1,2016,summer
+TRITrinidad and Tobago,0,0,1,1,2016,summer
+MDAMoldova,0,0,1,1,2016,summer
+KGZKyrgyzstan,0,0,1,1,2016,summer
+FINFinland,0,0,1,1,2016,summer
+ESTEstonia,0,0,1,1,2016,summer
+AUTAustria,0,0,1,1,2016,summer
+USAUnited States,46,29,29,104,2012,summer
+CHNChina,38,27,23,88,2012,summer
+RUSRussia,24,26,32,82,2012,summer
+GBRGreat Britain,29,17,19,65,2012,summer
+GERGermany,11,19,14,44,2012,summer
+JPNJapan,7,14,17,38,2012,summer
+AUSAustralia,7,16,12,35,2012,summer
+FRAFrance,11,11,12,34,2012,summer
+KORSouth Korea,13,8,7,28,2012,summer
+ITAItaly,8,9,11,28,2012,summer
+NEDNetherlands,6,6,8,20,2012,summer
+UKRUkraine,6,5,9,20,2012,summer
+HUNHungary,8,4,6,18,2012,summer
+CANCanada,1,5,12,18,2012,summer
+ESPSpain,3,10,4,17,2012,summer
+BRABrazil,3,5,9,17,2012,summer
+CUBCuba,5,3,6,14,2012,summer
+KAZKazakhstan,7,1,5,13,2012,summer
+NZLNew Zealand,6,2,5,13,2012,summer
+IRIIran,4,5,3,12,2012,summer
+JAMJamaica,4,4,4,12,2012,summer
+BLRBelarus,2,5,5,12,2012,summer
+KENKenya,2,4,5,11,2012,summer
+CZECzechia,4,3,3,10,2012,summer
+POLPoland,2,2,6,10,2012,summer
+AZEAzerbaijan,2,2,6,10,2012,summer
+ROURomania,2,5,2,9,2012,summer
+DENDenmark,2,4,3,9,2012,summer
+SWESweden,1,4,3,8,2012,summer
+COLColombia,1,3,4,8,2012,summer
+ETHEthiopia,3,1,3,7,2012,summer
+MEXMexico,1,3,3,7,2012,summer
+GEOGeorgia,1,3,3,7,2012,summer
+PRKNorth Korea,4,0,2,6,2012,summer
+RSASouth Africa,3,2,1,6,2012,summer
+CROCroatia,3,1,2,6,2012,summer
+INDIndia,0,2,4,6,2012,summer
+TURTurkey,2,2,1,5,2012,summer
+LTULithuania,2,1,2,5,2012,summer
+IRLIreland,1,1,3,5,2012,summer
+MGLMongolia,0,2,3,5,2012,summer
+SUISwitzerland,2,2,0,4,2012,summer
+NORNorway,2,1,1,4,2012,summer
+SRBSerbia Republic,1,1,2,4,2012,summer
+SLOSlovenia,1,1,2,4,2012,summer
+ARGArgentina,1,1,2,4,2012,summer
+TRITrinidad and Tobago,1,0,3,4,2012,summer
+SVKSlovakia,0,1,3,4,2012,summer
+TUNTunisia,1,1,1,3,2012,summer
+UZBUzbekistan,1,0,2,3,2012,summer
+THAThailand,0,2,1,3,2012,summer
+FINFinland,0,1,2,3,2012,summer
+BELBelgium,0,1,2,3,2012,summer
+ARMArmenia,0,1,2,3,2012,summer
+DOMDominican Republic,1,1,0,2,2012,summer
+LATLatvia,1,0,1,2,2012,summer
+EGYEgypt,0,2,0,2,2012,summer
+MASMalaysia,0,1,1,2,2012,summer
+INAIndonesia,0,1,1,2,2012,summer
+TPETaiwan (Chinese Taipei),0,1,1,2,2012,summer
+PURPuerto Rico,0,1,1,2,2012,summer
+ESTEstonia,0,1,1,2,2012,summer
+BULBulgaria,0,1,1,2,2012,summer
+SGPSingapore,0,0,2,2,2012,summer
+QATQatar,0,0,2,2,2012,summer
+MDAMoldova,0,0,2,2,2012,summer
+GREGreece,0,0,2,2,2012,summer
+UGAUganda,1,0,0,1,2012,summer
+GRNGrenada,1,0,0,1,2012,summer
+BAHBahamas,1,0,0,1,2012,summer
+ALGAlgeria,1,0,0,1,2012,summer
+VENVenezuela,1,0,0,1,2012,summer
+MNEMontenegro,0,1,0,1,2012,summer
+PORPortugal,0,1,0,1,2012,summer
+GUAGuatemala,0,1,0,1,2012,summer
+GABGabon,0,1,0,1,2012,summer
+BOTBotswana,0,1,0,1,2012,summer
+CYPCyprus,0,1,0,1,2012,summer
+BRNBahrain,0,0,1,1,2012,summer
+MARMorocco,0,0,1,1,2012,summer
+KSASaudi Arabia,0,0,1,1,2012,summer
+AFGAfghanistan,0,0,1,1,2012,summer
+TJKTajikistan,0,0,1,1,2012,summer
+KUWKuwait,0,0,1,1,2012,summer
+HKGHong Kong,0,0,1,1,2012,summer
